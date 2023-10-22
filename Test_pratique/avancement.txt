@@ -1,0 +1,9 @@
+Fait:
+-testCalibration
+-testCourantAlternatif (Basique sans coupure)
+-testReseauSansRienFait
+-testReseauSortieGrandReg
+-testReseauSortieUps
+
+A Faire:
+-testCourantAlternatif (Avec coupure)
